@@ -10,5 +10,3 @@ out/
 test/
 
 *.iml
-pom.xml
-src/main/
